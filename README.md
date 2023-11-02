@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Pranav, a passionate Data Science enthusiast currently pursuing my Master's in Data Science at Indiana University Bloomington👨‍💻. With over 2 years of professional experience as a Business Analyst, I bring a unique blend of academic knowledge and practical expertise to the world of data analytics</div>  
+### <div align="center">I'm Pranav, a passionate Data Science and Analytics enthusiast currently pursuing my Master's in Data Science at Indiana University Bloomington👨‍💻. With over 2 years of professional experience as a Business Analyst, I bring a unique blend of academic knowledge and practical expertise to the world of data analytics</div>  
   
 
 - 🔭 I’m currently working on Uber Data Analytics using Power BI  
