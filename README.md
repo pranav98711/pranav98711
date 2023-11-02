@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning R Programming and R Studio  
   
 
-- ⚡ Fav Quote: With breaks on, if you try to drive somewhere, you'll burn yourself  
+- ⚡ Fav Quote: With brakes on, if you try to drive somewhere, you'll burn yourself  
   
 
 <br/>  
