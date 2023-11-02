@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://img.freepik.com/free-vector/laptop-computer-with-academic-icon-white-background_1308-74596.jpg?w=740&t=st=1698933862~exp=1698934462~hmac=74f78db8ebb4e2bd7028b6c674ee47474744dba674ea08f8dde8c713d68cd4c6" align="center" style="width: 100%" />
+<img src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif" align="center" style="width: 100%" />
 </div>  
   
 
